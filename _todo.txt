@@ -1,5 +1,10 @@
 - social media head tags
-- description of items implementation
+- description of items implementation (standardized format?)
+      Year
+      Pages (_ p.)
+      Dimensions (_x_ in.)
+      Printing process
+      Binding
 - separate item pages?
 - about page?
 - figure out paypal + accounting. order POS (either paypal or square)
